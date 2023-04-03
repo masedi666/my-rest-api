@@ -3,7 +3,7 @@ const fs = require('fs')
 global.creator = 'edikur.exe'// yourname
 global.MONGO_DB_URI = "mongodb+srv://edi1:edi1@cluster0.boefhgr.mongodb.net/?retryWrites=true&w=majority" //database mongodb 
 global.ACTIVATION_TOKEN_SECRET = "edikurexe" //isi apa aja bebas
-global.your_email = "Nawanjr19220@gmail.com" //email
+global.your_email = "nawanjr19220@gmail.com" //email
 global.email_password = "nawan123456@" //application password email
 global.limitCount = 10000
 global.YUOR_PORT = 8000
